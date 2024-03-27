@@ -54,6 +54,27 @@
             ]
         },
         {
+            "name": "libplasma",
+            "config-opts": [
+                "-DBUILD_TESTING=OFF"
+            ],
+            "buildsystem": "cmake-ninja",
+            "builddir": true,
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/plasma/6.0.2/libplasma-6.0.2.tar.xz",
+                    "sha256": "35a02104bdc7dc1347113219768a65366503a7df5faf98bf00d01ab6034d11bd",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8761,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/plasma/$version/libplasma-$version.tar.xz"
+                    }
+                }
+            ]
+        },
+        {
             "name": "knights",
             "buildsystem": "cmake-ninja",
             "post-install": [
