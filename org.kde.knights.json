@@ -42,8 +42,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.2/src/libkdegames-24.08.2.tar.xz",
-                    "sha256": "ea7d92daa7119b8d30c3bc5e8200992ad20b76092e5896501cb8782617478042",
+                    "url": "https://download.kde.org/stable/release-service/24.08.3/src/libkdegames-24.08.3.tar.xz",
+                    "sha256": "6bcb2e0c6737f9b8a946e9d0b974164fb05b4165632bb59743fb19e04dbf94ee",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -83,8 +83,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.2/src/knights-24.08.2.tar.xz",
-                    "sha256": "e803a413e5942eb49305a2121e5f7e823532951ade8aa7203bebed1aaaa48be5",
+                    "url": "https://download.kde.org/stable/release-service/24.08.3/src/knights-24.08.3.tar.xz",
+                    "sha256": "dedffcc0c3388e5c55c4ce252b8bf990f7afa475dda821b680e5de88d1e2db8b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
