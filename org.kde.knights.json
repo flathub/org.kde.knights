@@ -42,8 +42,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.1/src/libkdegames-25.04.1.tar.xz",
-                    "sha256": "421ac8e2e648a48ae4a6808735fcd27916c9aace5f0e99fc822606045d070cbe",
+                    "url": "https://download.kde.org/stable/release-service/25.04.2/src/libkdegames-25.04.2.tar.xz",
+                    "sha256": "8775c78f76d64be05bab10df4d0c3fa3d5f5442a094c86501d6ec7ada9b30d2b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -83,8 +83,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.1/src/knights-25.04.1.tar.xz",
-                    "sha256": "e343e0226bf6df2dbedcc09ad12138927a3101c8f898f7b00a5714a4436566be",
+                    "url": "https://download.kde.org/stable/release-service/25.04.2/src/knights-25.04.2.tar.xz",
+                    "sha256": "b463f14299e4eebb5f17805d3335c4a40b84298c25dd83c1e44ab75831ecb2ef",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
