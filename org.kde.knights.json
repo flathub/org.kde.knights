@@ -42,8 +42,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.3/src/libkdegames-25.04.3.tar.xz",
-                    "sha256": "63cd2b137e989a635994c48f93dc9ecf3b5aa6306d39bda5a7a38c9aa2a437a4",
+                    "url": "https://download.kde.org/stable/release-service/25.08.0/src/libkdegames-25.08.0.tar.xz",
+                    "sha256": "15579343d5b06608115e8e95473b80bc91de8841b1a79584f5615a91fe57e2f7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -63,8 +63,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.3.5/libplasma-6.3.5.tar.xz",
-                    "sha256": "5012c83d2da265de960709b4f2138f3978aa44e1fb2bb0d6b3ef95de98e6eae4",
+                    "url": "https://download.kde.org/stable/plasma/6.4.4/libplasma-6.4.4.tar.xz",
+                    "sha256": "ab0f4b426829821e0abf479052f326a5ce01c3b604e890c9f79949c3eb5fdebe",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
@@ -83,8 +83,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.3/src/knights-25.04.3.tar.xz",
-                    "sha256": "dd2614334055837bb15a6b548025998bceea5aaf4244847f2a7f74e4ea5b6fce",
+                    "url": "https://download.kde.org/stable/release-service/25.08.0/src/knights-25.08.0.tar.xz",
+                    "sha256": "e587ee6e91a4ae803287e2b4c443cd63b04f5912a3c1ab14f4345c543bd7256e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
