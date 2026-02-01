@@ -14,10 +14,13 @@
         "--socket=wayland"
     ],
     "cleanup": [
+        "/include",
+        "/lib/cmake",
+        "/share/doc",
         "/share/gnuchess",
         "/share/info",
         "/share/man",
-        "/include"
+        "/share/qlogging-categories6"
     ],
     "modules": [
         {
