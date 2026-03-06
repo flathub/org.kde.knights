@@ -16,6 +16,7 @@
     "cleanup": [
         "/include",
         "/lib/cmake",
+        "/share/carddecks",
         "/share/doc",
         "/share/gnuchess",
         "/share/info",
