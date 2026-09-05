@@ -49,8 +49,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/official-stockfish/Stockfish/archive/sf_18.tar.gz",
-                    "sha256": "22a195567e3493e7c9ca8bf8fa2339f4ffc876384849ac8a417ff4b919607e7b",
+                    "url": "https://github.com/official-stockfish/Stockfish/archive/sf_19.tar.gz",
+                    "sha256": "519b653d0d1ffb96531d982ccbe5c6a19425e8388e0e3c2f70f34b424ab32d76",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 5750,
